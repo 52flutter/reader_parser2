@@ -13,7 +13,7 @@ dependencies:
   # 表达式计算
   expressions: ^0.2.3
   #FFI
-  ffi: ^1.1.2
+  ffi: ^2.0.1
 
 dev_dependencies:
   flutter_test:
